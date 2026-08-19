@@ -1,0 +1,905 @@
+{
+  "characters": [
+    {
+      "id": "1602",
+      "name": "丹瑾",
+      "aliases": [
+        "Danjin",
+        "danjin"
+      ],
+      "rarity": 4,
+      "element": "湮灭",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "danjin",
+      "builds_key": "1602",
+      "asset_key": "character-1602"
+    },
+    {
+      "id": "1104",
+      "name": "凌阳",
+      "aliases": [
+        "Lingyang",
+        "lingyang"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "lingyang",
+      "builds_key": "1104",
+      "asset_key": "character-1104"
+    },
+    {
+      "id": "1301",
+      "name": "卡卡罗",
+      "aliases": [
+        "Calcharo",
+        "calcharo"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "calcharo",
+      "builds_key": "1301",
+      "asset_key": "character-1301"
+    },
+    {
+      "id": "1302",
+      "name": "吟霖",
+      "aliases": [
+        "Yinlin",
+        "yinlin"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "音感仪",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "yinlin",
+      "builds_key": "1302",
+      "asset_key": "character-1302"
+    },
+    {
+      "id": "1203",
+      "name": "安可",
+      "aliases": [
+        "Encore",
+        "encore"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "音感仪",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "encore",
+      "builds_key": "1203",
+      "asset_key": "character-1203"
+    },
+    {
+      "id": "1404",
+      "name": "忌炎",
+      "aliases": [
+        "Jiyan",
+        "jiyan",
+        "将军"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "jiyan",
+      "builds_key": "1404",
+      "asset_key": "character-1404"
+    },
+    {
+      "id": "1102",
+      "name": "散华",
+      "aliases": [
+        "Sanhua",
+        "sanhua"
+      ],
+      "rarity": 4,
+      "element": "冷凝",
+      "weapon_type": "迅刀",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "sanhua",
+      "builds_key": "1102",
+      "asset_key": "character-1102"
+    },
+    {
+      "id": "1601",
+      "name": "桃祈",
+      "aliases": [
+        "Taoqi",
+        "taoqi"
+      ],
+      "rarity": 4,
+      "element": "湮灭",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "taoqi",
+      "builds_key": "1601",
+      "asset_key": "character-1601"
+    },
+    {
+      "id": "1303",
+      "name": "渊武",
+      "aliases": [
+        "Yuanwu",
+        "yuanwu"
+      ],
+      "rarity": 4,
+      "element": "导电",
+      "weapon_type": "臂铠",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "yuanwu",
+      "builds_key": "1303",
+      "asset_key": "character-1303"
+    },
+    {
+      "id": "rover-havoc",
+      "name": "漂泊者・湮灭",
+      "aliases": [
+        "Rover",
+        "rover-havoc",
+        "漂泊者·湮灭"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "迅刀",
+      "role": "主力输出/自由配队",
+      "release_version": "1.0",
+      "materials_key": "rover",
+      "builds_key": "rover-havoc",
+      "asset_key": "character-rover-havoc"
+    },
+    {
+      "id": "rover-spectro",
+      "name": "漂泊者・衍射",
+      "aliases": [
+        "Rover",
+        "rover-spectro",
+        "漂泊者·衍射"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "迅刀",
+      "role": "主力输出/自由配队",
+      "release_version": "1.0",
+      "materials_key": "rover",
+      "builds_key": "rover-spectro",
+      "asset_key": "character-rover-spectro"
+    },
+    {
+      "id": "1202",
+      "name": "炽霞",
+      "aliases": [
+        "Chixia",
+        "chixia"
+      ],
+      "rarity": 4,
+      "element": "热熔",
+      "weapon_type": "佩枪",
+      "role": "主力输出",
+      "release_version": "1.0",
+      "materials_key": "chixia",
+      "builds_key": "1202",
+      "asset_key": "character-1202"
+    },
+    {
+      "id": "1103",
+      "name": "白芷",
+      "aliases": [
+        "Baizhi",
+        "baizhi"
+      ],
+      "rarity": 4,
+      "element": "冷凝",
+      "weapon_type": "音感仪",
+      "role": "治疗/增益",
+      "release_version": "1.0",
+      "materials_key": "baizhi",
+      "builds_key": "1103",
+      "asset_key": "character-1103"
+    },
+    {
+      "id": "1403",
+      "name": "秋水",
+      "aliases": [
+        "Aalto",
+        "aalto"
+      ],
+      "rarity": 4,
+      "element": "气动",
+      "weapon_type": "佩枪",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "aalto",
+      "builds_key": "1403",
+      "asset_key": "character-1403"
+    },
+    {
+      "id": "1402",
+      "name": "秧秧",
+      "aliases": [
+        "Yangyang",
+        "yangyang"
+      ],
+      "rarity": 4,
+      "element": "气动",
+      "weapon_type": "迅刀",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "yangyang",
+      "builds_key": "1402",
+      "asset_key": "character-1402"
+    },
+    {
+      "id": "1503",
+      "name": "维里奈",
+      "aliases": [
+        "Verina",
+        "verina"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "音感仪",
+      "role": "治疗/增益",
+      "release_version": "1.0",
+      "materials_key": "verina",
+      "builds_key": "1503",
+      "asset_key": "character-1503"
+    },
+    {
+      "id": "1204",
+      "name": "莫特斐",
+      "aliases": [
+        "Mortefi",
+        "mortefi"
+      ],
+      "rarity": 4,
+      "element": "热熔",
+      "weapon_type": "佩枪",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "mortefi",
+      "builds_key": "1204",
+      "asset_key": "character-1204"
+    },
+    {
+      "id": "1405",
+      "name": "鉴心",
+      "aliases": [
+        "Jianxin",
+        "jianxin"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "臂铠",
+      "role": "副输出/增益",
+      "release_version": "1.0",
+      "materials_key": "jianxin",
+      "builds_key": "1405",
+      "asset_key": "character-1405"
+    },
+    {
+      "id": "1304",
+      "name": "今汐",
+      "aliases": [
+        "Jinhsi",
+        "jinhsi"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "1.1",
+      "materials_key": "jinhsi",
+      "builds_key": "1304",
+      "asset_key": "character-1304"
+    },
+    {
+      "id": "1205",
+      "name": "长离",
+      "aliases": [
+        "Changli",
+        "changli"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "1.1",
+      "materials_key": "changli",
+      "builds_key": "1205",
+      "asset_key": "character-1205"
+    },
+    {
+      "id": "1105",
+      "name": "折枝",
+      "aliases": [
+        "Zhezhi",
+        "zhezhi"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "音感仪",
+      "role": "副输出/增益",
+      "release_version": "1.2",
+      "materials_key": "zhezhi",
+      "builds_key": "1105",
+      "asset_key": "character-1105"
+    },
+    {
+      "id": "1305",
+      "name": "相里要",
+      "aliases": [
+        "Xiangli Yao",
+        "xiangli-yao"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "1.2",
+      "materials_key": "xiangli-yao",
+      "builds_key": "1305",
+      "asset_key": "character-1305"
+    },
+    {
+      "id": "1505",
+      "name": "守岸人",
+      "aliases": [
+        "Shorekeeper",
+        "shorekeeper"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "音感仪",
+      "role": "治疗/增益",
+      "release_version": "1.3",
+      "materials_key": "shorekeeper",
+      "builds_key": "1505",
+      "asset_key": "character-1505"
+    },
+    {
+      "id": "1106",
+      "name": "釉瑚",
+      "aliases": [
+        "Youhu",
+        "youhu"
+      ],
+      "rarity": 4,
+      "element": "冷凝",
+      "weapon_type": "臂铠",
+      "role": "副输出/增益",
+      "release_version": "1.3",
+      "materials_key": "youhu",
+      "builds_key": "1106",
+      "asset_key": "character-1106"
+    },
+    {
+      "id": "1603",
+      "name": "椿",
+      "aliases": [
+        "Camellya",
+        "camellya"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "1.4",
+      "materials_key": "camellya",
+      "builds_key": "1603",
+      "asset_key": "character-1603"
+    },
+    {
+      "id": "1504",
+      "name": "灯灯",
+      "aliases": [
+        "Lumi",
+        "lumi"
+      ],
+      "rarity": 4,
+      "element": "导电",
+      "weapon_type": "长刃",
+      "role": "副输出/增益",
+      "release_version": "1.4",
+      "materials_key": "lumi",
+      "builds_key": "1504",
+      "asset_key": "character-1504"
+    },
+    {
+      "id": "1606",
+      "name": "洛可可",
+      "aliases": [
+        "Roccia",
+        "roccia"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "2.0",
+      "materials_key": "roccia",
+      "builds_key": "1606",
+      "asset_key": "character-1606"
+    },
+    {
+      "id": "1107",
+      "name": "珂莱塔",
+      "aliases": [
+        "Carlotta",
+        "carlotta"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "佩枪",
+      "role": "主力输出",
+      "release_version": "2.0",
+      "materials_key": "carlotta",
+      "builds_key": "1107",
+      "asset_key": "character-1107"
+    },
+    {
+      "id": "1206",
+      "name": "布兰特",
+      "aliases": [
+        "Brant",
+        "brant"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "迅刀",
+      "role": "副输出/增益",
+      "release_version": "2.1",
+      "materials_key": "brant",
+      "builds_key": "1206",
+      "asset_key": "character-1206"
+    },
+    {
+      "id": "1506",
+      "name": "菲比",
+      "aliases": [
+        "Phoebe",
+        "phoebe"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "音感仪",
+      "role": "主力输出",
+      "release_version": "2.1",
+      "materials_key": "phoebe",
+      "builds_key": "1506",
+      "asset_key": "character-1506"
+    },
+    {
+      "id": "1607",
+      "name": "坎特蕾拉",
+      "aliases": [
+        "Cantarella",
+        "cantarella"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "音感仪",
+      "role": "副输出/增益",
+      "release_version": "2.2",
+      "materials_key": "cantarella",
+      "builds_key": "1607",
+      "asset_key": "character-1607"
+    },
+    {
+      "id": "rover-aero",
+      "name": "漂泊者・气动",
+      "aliases": [
+        "Rover",
+        "rover-aero",
+        "漂泊者·气动"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "迅刀",
+      "role": "主力输出/自由配队",
+      "release_version": "2.2",
+      "materials_key": "rover",
+      "builds_key": "rover-aero",
+      "asset_key": "character-rover-aero"
+    },
+    {
+      "id": "1407",
+      "name": "夏空",
+      "aliases": [
+        "Ciaccona",
+        "ciaccona"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "佩枪",
+      "role": "副输出/增益",
+      "release_version": "2.3",
+      "materials_key": "ciaccona",
+      "builds_key": "1407",
+      "asset_key": "character-1407"
+    },
+    {
+      "id": "1507",
+      "name": "赞妮",
+      "aliases": [
+        "Zani",
+        "zani"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "2.3",
+      "materials_key": "zani",
+      "builds_key": "1507",
+      "asset_key": "character-1507"
+    },
+    {
+      "id": "1409",
+      "name": "卡提希娅",
+      "aliases": [
+        "Cartethyia",
+        "cartethyia"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "2.4",
+      "materials_key": "cartethyia",
+      "builds_key": "1409",
+      "asset_key": "character-1409"
+    },
+    {
+      "id": "1207",
+      "name": "露帕",
+      "aliases": [
+        "Lupa",
+        "lupa"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "2.4",
+      "materials_key": "lupa",
+      "builds_key": "1207",
+      "asset_key": "character-1207"
+    },
+    {
+      "id": "1608",
+      "name": "弗洛洛",
+      "aliases": [
+        "Phrolova",
+        "phrolova"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "音感仪",
+      "role": "主力输出",
+      "release_version": "2.5",
+      "materials_key": "phrolova",
+      "builds_key": "1608",
+      "asset_key": "character-1608"
+    },
+    {
+      "id": "1306",
+      "name": "奥古斯塔",
+      "aliases": [
+        "Augusta",
+        "augusta"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "2.6",
+      "materials_key": "augusta",
+      "builds_key": "1306",
+      "asset_key": "character-1306"
+    },
+    {
+      "id": "1410",
+      "name": "尤诺",
+      "aliases": [
+        "Iuno",
+        "iuno"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "2.6",
+      "materials_key": "iuno",
+      "builds_key": "1410",
+      "asset_key": "character-1410"
+    },
+    {
+      "id": "1411",
+      "name": "仇远",
+      "aliases": [
+        "Qiuyuan",
+        "qiuyuan"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "2.7",
+      "materials_key": "qiuyuan",
+      "builds_key": "1411",
+      "asset_key": "character-1411"
+    },
+    {
+      "id": "1208",
+      "name": "嘉贝莉娜",
+      "aliases": [
+        "Galbrena",
+        "galbrena"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "佩枪",
+      "role": "主力输出",
+      "release_version": "2.7",
+      "materials_key": "galbrena",
+      "builds_key": "1208",
+      "asset_key": "character-1208"
+    },
+    {
+      "id": "1508",
+      "name": "千咲",
+      "aliases": [
+        "Chisa",
+        "chisa"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "长刃",
+      "role": "主力输出",
+      "release_version": "2.8",
+      "materials_key": "chisa",
+      "builds_key": "1508",
+      "asset_key": "character-1508"
+    },
+    {
+      "id": "1307",
+      "name": "卜灵",
+      "aliases": [
+        "Buling",
+        "buling"
+      ],
+      "rarity": 4,
+      "element": "导电",
+      "weapon_type": "音感仪",
+      "role": "副输出/增益",
+      "release_version": "2.8",
+      "materials_key": "buling",
+      "builds_key": "1307",
+      "asset_key": "character-1307"
+    },
+    {
+      "id": "1509",
+      "name": "琳奈",
+      "aliases": [
+        "Lynae",
+        "lynae"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "佩枪",
+      "role": "副输出/增益",
+      "release_version": "3.0",
+      "materials_key": "lynae",
+      "builds_key": "1509",
+      "asset_key": "character-1509"
+    },
+    {
+      "id": "1209",
+      "name": "莫宁",
+      "aliases": [
+        "Mornye",
+        "mornye"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "长刃",
+      "role": "治疗/增益",
+      "release_version": "3.0",
+      "materials_key": "mornye",
+      "builds_key": "1209",
+      "asset_key": "character-1209"
+    },
+    {
+      "id": "1210",
+      "name": "爱弥斯",
+      "aliases": [
+        "Aemeath",
+        "aemeath"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "3.1",
+      "materials_key": "aemeath",
+      "builds_key": "1210",
+      "asset_key": "character-1210"
+    },
+    {
+      "id": "1510",
+      "name": "陆・赫斯",
+      "aliases": [
+        "Luuk Herssen",
+        "luuk-herssen"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "3.1",
+      "materials_key": "luuk-herssen",
+      "builds_key": "1510",
+      "asset_key": "character-1510"
+    },
+    {
+      "id": "1412",
+      "name": "西格莉卡",
+      "aliases": [
+        "Sigrika",
+        "sigrika"
+      ],
+      "rarity": 5,
+      "element": "气动",
+      "weapon_type": "臂铠",
+      "role": "主力输出",
+      "release_version": "3.2",
+      "materials_key": "sigrika",
+      "builds_key": "1412",
+      "asset_key": "character-1412"
+    },
+    {
+      "id": "1108",
+      "name": "绯雪",
+      "aliases": [
+        "Hiyuki",
+        "hiyuki"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "3.3",
+      "materials_key": "hiyuki",
+      "builds_key": "1108",
+      "asset_key": "character-1108"
+    },
+    {
+      "id": "1211",
+      "name": "达妮娅",
+      "aliases": [
+        "Denia",
+        "denia"
+      ],
+      "rarity": 5,
+      "element": "热熔",
+      "weapon_type": "音感仪",
+      "role": "主力输出",
+      "release_version": "3.3",
+      "materials_key": "denia",
+      "builds_key": "1211",
+      "asset_key": "character-1211"
+    },
+    {
+      "id": "1308",
+      "name": "丽贝卡",
+      "aliases": [
+        "Rebecca",
+        "rebecca"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "佩枪",
+      "role": "主力输出",
+      "release_version": "3.4",
+      "materials_key": "rebecca",
+      "builds_key": "1308",
+      "asset_key": "character-1308"
+    },
+    {
+      "id": "1511",
+      "name": "露西",
+      "aliases": [
+        "Lucy",
+        "lucy"
+      ],
+      "rarity": 5,
+      "element": "衍射",
+      "weapon_type": "佩枪",
+      "role": "主力输出",
+      "release_version": "3.4",
+      "materials_key": "lucy",
+      "builds_key": "1511",
+      "asset_key": "character-1511"
+    },
+    {
+      "id": "1109",
+      "name": "露西拉",
+      "aliases": [
+        "Lucilla",
+        "lucilla"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "音感仪",
+      "role": "副输出/增益",
+      "release_version": "3.4",
+      "materials_key": "lucilla",
+      "builds_key": "1109",
+      "asset_key": "character-1109"
+    },
+    {
+      "id": "rover-electro",
+      "name": "漂泊者・导电",
+      "aliases": [
+        "Rover",
+        "rover-electro",
+        "漂泊者·导电"
+      ],
+      "rarity": 5,
+      "element": "导电",
+      "weapon_type": "迅刀",
+      "role": "主力输出/自由配队",
+      "release_version": "3.5",
+      "materials_key": "rover",
+      "builds_key": "rover-electro",
+      "asset_key": "character-rover-electro"
+    },
+    {
+      "id": "1610",
+      "name": "秧秧・玄翎",
+      "aliases": [
+        "Yangyang: Xuanling",
+        "yangyang-xuanling"
+      ],
+      "rarity": 5,
+      "element": "湮灭",
+      "weapon_type": "迅刀",
+      "role": "主力输出",
+      "release_version": "3.5",
+      "materials_key": "yangyang-xuanling",
+      "builds_key": "1610",
+      "asset_key": "character-1610"
+    },
+    {
+      "id": "1110",
+      "name": "穗穗",
+      "aliases": [
+        "Suisui",
+        "suisui"
+      ],
+      "rarity": 5,
+      "element": "冷凝",
+      "weapon_type": "音感仪",
+      "role": "治疗/增益",
+      "release_version": "3.5",
+      "materials_key": "suisui",
+      "builds_key": "1110",
+      "asset_key": "character-1110"
+    }
+  ]
+}

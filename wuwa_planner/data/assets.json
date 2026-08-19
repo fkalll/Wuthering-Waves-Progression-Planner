@@ -1,0 +1,2734 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-18",
+  "runtime_network_required": false,
+  "category_sizes": {
+    "character": [
+      160,
+      160
+    ],
+    "material": [
+      64,
+      64
+    ],
+    "echo": [
+      96,
+      96
+    ]
+  },
+  "rights_notice": "游戏原始图片权利归库洛游戏；本清单仅供本地学习工具展示，分发前需自行确认再分发权利。",
+  "assets": {
+    "character-1102": {
+      "category": "character",
+      "path": "assets/characters/1102.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_7.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1103": {
+      "category": "character",
+      "path": "assets/characters/1103.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_6.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1104": {
+      "category": "character",
+      "path": "assets/characters/1104.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_14.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1105": {
+      "category": "character",
+      "path": "assets/characters/1105.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_27_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1106": {
+      "category": "character",
+      "path": "assets/characters/1106.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_31_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1107": {
+      "category": "character",
+      "path": "assets/characters/1107.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_32_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1108": {
+      "category": "character",
+      "path": "assets/characters/1108.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_67_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1109": {
+      "category": "character",
+      "path": "assets/characters/1109.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_66_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1110": {
+      "category": "character",
+      "path": "assets/characters/1110.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_71_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1202": {
+      "category": "character",
+      "path": "assets/characters/1202.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_2.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1203": {
+      "category": "character",
+      "path": "assets/characters/1203.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_8.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1204": {
+      "category": "character",
+      "path": "assets/characters/1204.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_13.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1205": {
+      "category": "character",
+      "path": "assets/characters/1205.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_26_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1206": {
+      "category": "character",
+      "path": "assets/characters/1206.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_44_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1207": {
+      "category": "character",
+      "path": "assets/characters/1207.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_46_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1208": {
+      "category": "character",
+      "path": "assets/characters/1208.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_55_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1209": {
+      "category": "character",
+      "path": "assets/characters/1209.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_61_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1210": {
+      "category": "character",
+      "path": "assets/characters/1210.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_53_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1211": {
+      "category": "character",
+      "path": "assets/characters/1211.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_64_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1301": {
+      "category": "character",
+      "path": "assets/characters/1301.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_18.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1302": {
+      "category": "character",
+      "path": "assets/characters/1302.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_17.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1303": {
+      "category": "character",
+      "path": "assets/characters/1303.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_15.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1304": {
+      "category": "character",
+      "path": "assets/characters/1304.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_24_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1305": {
+      "category": "character",
+      "path": "assets/characters/1305.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_25_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1306": {
+      "category": "character",
+      "path": "assets/characters/1306.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_51_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1307": {
+      "category": "character",
+      "path": "assets/characters/1307.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_58_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1308": {
+      "category": "character",
+      "path": "assets/characters/1308.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_69_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1402": {
+      "category": "character",
+      "path": "assets/characters/1402.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_1.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1403": {
+      "category": "character",
+      "path": "assets/characters/1403.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_12.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1404": {
+      "category": "character",
+      "path": "assets/characters/1404.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_11.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1405": {
+      "category": "character",
+      "path": "assets/characters/1405.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_23_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1407": {
+      "category": "character",
+      "path": "assets/characters/1407.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_37_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1409": {
+      "category": "character",
+      "path": "assets/characters/1409.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_40_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1410": {
+      "category": "character",
+      "path": "assets/characters/1410.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_48_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1411": {
+      "category": "character",
+      "path": "assets/characters/1411.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_56_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1412": {
+      "category": "character",
+      "path": "assets/characters/1412.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_65_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1503": {
+      "category": "character",
+      "path": "assets/characters/1503.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_3.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1504": {
+      "category": "character",
+      "path": "assets/characters/1504.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_30_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1505": {
+      "category": "character",
+      "path": "assets/characters/1505.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_28_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1506": {
+      "category": "character",
+      "path": "assets/characters/1506.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_45_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1507": {
+      "category": "character",
+      "path": "assets/characters/1507.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_38_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1508": {
+      "category": "character",
+      "path": "assets/characters/1508.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_57_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1509": {
+      "category": "character",
+      "path": "assets/characters/1509.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_60_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1510": {
+      "category": "character",
+      "path": "assets/characters/1510.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_54_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1511": {
+      "category": "character",
+      "path": "assets/characters/1511.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_68_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1601": {
+      "category": "character",
+      "path": "assets/characters/1601.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_9.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1602": {
+      "category": "character",
+      "path": "assets/characters/1602.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_10.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1603": {
+      "category": "character",
+      "path": "assets/characters/1603.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_29_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1606": {
+      "category": "character",
+      "path": "assets/characters/1606.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_33_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1607": {
+      "category": "character",
+      "path": "assets/characters/1607.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_34_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1608": {
+      "category": "character",
+      "path": "assets/characters/1608.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_41_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-1610": {
+      "category": "character",
+      "path": "assets/characters/1610.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_70_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-rover-aero": {
+      "category": "character",
+      "path": "assets/characters/rover-aero.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-rover-electro": {
+      "category": "character",
+      "path": "assets/characters/rover-electro.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-rover-havoc": {
+      "category": "character",
+      "path": "assets/characters/rover-havoc.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "character-rover-spectro": {
+      "category": "character",
+      "path": "assets/characters/rover-spectro.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_4.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        160,
+        160
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-391090205": {
+      "category": "echo",
+      "path": "assets/echoes/391090205.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32068_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000043": {
+      "category": "echo",
+      "path": "assets/echoes/6000043.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_996_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000052": {
+      "category": "echo",
+      "path": "assets/echoes/6000052.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_995_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000060": {
+      "category": "echo",
+      "path": "assets/echoes/6000060.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_350_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000082": {
+      "category": "echo",
+      "path": "assets/echoes/6000082.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33011_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000090": {
+      "category": "echo",
+      "path": "assets/echoes/6000090.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33018_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000091": {
+      "category": "echo",
+      "path": "assets/echoes/6000091.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_YZ_33019_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000104": {
+      "category": "echo",
+      "path": "assets/echoes/6000104.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32033_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000113": {
+      "category": "echo",
+      "path": "assets/echoes/6000113.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33021_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000120": {
+      "category": "echo",
+      "path": "assets/echoes/6000120.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32044_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000121": {
+      "category": "echo",
+      "path": "assets/echoes/6000121.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34017_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000160": {
+      "category": "echo",
+      "path": "assets/echoes/6000160.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34018_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000191": {
+      "category": "echo",
+      "path": "assets/echoes/6000191.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34025_0_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000192": {
+      "category": "echo",
+      "path": "assets/echoes/6000192.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34026_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000195": {
+      "category": "echo",
+      "path": "assets/echoes/6000195.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32061_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000199": {
+      "category": "echo",
+      "path": "assets/echoes/6000199.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34027_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000200": {
+      "category": "echo",
+      "path": "assets/echoes/6000200.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34028_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000201": {
+      "category": "echo",
+      "path": "assets/echoes/6000201.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34029_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6000218": {
+      "category": "echo",
+      "path": "assets/echoes/6000218.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34031_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6020056": {
+      "category": "echo",
+      "path": "assets/echoes/6020056.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_33012_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6020062": {
+      "category": "echo",
+      "path": "assets/echoes/6020062.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_34010_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-6020067": {
+      "category": "echo",
+      "path": "assets/echoes/6020067.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_32028_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "echo-60200707": {
+      "category": "echo",
+      "path": "assets/echoes/60200707.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMonsterGoods/T_IconMonsterGoods_994_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        96,
+        96
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-2": {
+      "category": "material",
+      "path": "assets/materials/2.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_hsb_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100011": {
+      "category": "material",
+      "path": "assets/materials/41100011.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100012": {
+      "category": "material",
+      "path": "assets/materials/41100012.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100013": {
+      "category": "material",
+      "path": "assets/materials/41100013.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100014": {
+      "category": "material",
+      "path": "assets/materials/41100014.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_002_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100021": {
+      "category": "material",
+      "path": "assets/materials/41100021.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100022": {
+      "category": "material",
+      "path": "assets/materials/41100022.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100023": {
+      "category": "material",
+      "path": "assets/materials/41100023.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100024": {
+      "category": "material",
+      "path": "assets/materials/41100024.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_E_002_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100031": {
+      "category": "material",
+      "path": "assets/materials/41100031.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100032": {
+      "category": "material",
+      "path": "assets/materials/41100032.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100033": {
+      "category": "material",
+      "path": "assets/materials/41100033.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100034": {
+      "category": "material",
+      "path": "assets/materials/41100034.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_003_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100041": {
+      "category": "material",
+      "path": "assets/materials/41100041.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_004_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100042": {
+      "category": "material",
+      "path": "assets/materials/41100042.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_004_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100043": {
+      "category": "material",
+      "path": "assets/materials/41100043.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_004_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100044": {
+      "category": "material",
+      "path": "assets/materials/41100044.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_004_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100051": {
+      "category": "material",
+      "path": "assets/materials/41100051.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_005_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100052": {
+      "category": "material",
+      "path": "assets/materials/41100052.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_005_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100053": {
+      "category": "material",
+      "path": "assets/materials/41100053.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_005_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100054": {
+      "category": "material",
+      "path": "assets/materials/41100054.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_005_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100061": {
+      "category": "material",
+      "path": "assets/materials/41100061.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_021_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100062": {
+      "category": "material",
+      "path": "assets/materials/41100062.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_022_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100063": {
+      "category": "material",
+      "path": "assets/materials/41100063.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_023_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100064": {
+      "category": "material",
+      "path": "assets/materials/41100064.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_024_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100071": {
+      "category": "material",
+      "path": "assets/materials/41100071.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_025_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100072": {
+      "category": "material",
+      "path": "assets/materials/41100072.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_026_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100073": {
+      "category": "material",
+      "path": "assets/materials/41100073.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_027_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100074": {
+      "category": "material",
+      "path": "assets/materials/41100074.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_028_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100081": {
+      "category": "material",
+      "path": "assets/materials/41100081.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_007_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100082": {
+      "category": "material",
+      "path": "assets/materials/41100082.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_007_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100083": {
+      "category": "material",
+      "path": "assets/materials/41100083.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_007_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100084": {
+      "category": "material",
+      "path": "assets/materials/41100084.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_007_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100091": {
+      "category": "material",
+      "path": "assets/materials/41100091.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_013_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100092": {
+      "category": "material",
+      "path": "assets/materials/41100092.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_013_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100093": {
+      "category": "material",
+      "path": "assets/materials/41100093.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_013_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41100094": {
+      "category": "material",
+      "path": "assets/materials/41100094.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_013_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41300005": {
+      "category": "material",
+      "path": "assets/materials/41300005.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_002_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400014": {
+      "category": "material",
+      "path": "assets/materials/41400014.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_004_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400024": {
+      "category": "material",
+      "path": "assets/materials/41400024.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_001_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400034": {
+      "category": "material",
+      "path": "assets/materials/41400034.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_006_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400044": {
+      "category": "material",
+      "path": "assets/materials/41400044.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_008_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400054": {
+      "category": "material",
+      "path": "assets/materials/41400054.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_011_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400064": {
+      "category": "material",
+      "path": "assets/materials/41400064.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_010_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400074": {
+      "category": "material",
+      "path": "assets/materials/41400074.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_007_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400084": {
+      "category": "material",
+      "path": "assets/materials/41400084.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_009_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400094": {
+      "category": "material",
+      "path": "assets/materials/41400094.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_003_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400114": {
+      "category": "material",
+      "path": "assets/materials/41400114.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_014_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400124": {
+      "category": "material",
+      "path": "assets/materials/41400124.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_013_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400134": {
+      "category": "material",
+      "path": "assets/materials/41400134.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_012_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400144": {
+      "category": "material",
+      "path": "assets/materials/41400144.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_005_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400154": {
+      "category": "material",
+      "path": "assets/materials/41400154.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_015_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400164": {
+      "category": "material",
+      "path": "assets/materials/41400164.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_009_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400174": {
+      "category": "material",
+      "path": "assets/materials/41400174.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_006_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400184": {
+      "category": "material",
+      "path": "assets/materials/41400184.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_008_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400194": {
+      "category": "material",
+      "path": "assets/materials/41400194.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_007_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400204": {
+      "category": "material",
+      "path": "assets/materials/41400204.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_017_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400214": {
+      "category": "material",
+      "path": "assets/materials/41400214.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_018_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400224": {
+      "category": "material",
+      "path": "assets/materials/41400224.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_019_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400234": {
+      "category": "material",
+      "path": "assets/materials/41400234.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_020_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400244": {
+      "category": "material",
+      "path": "assets/materials/41400244.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_010_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400254": {
+      "category": "material",
+      "path": "assets/materials/41400254.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_021_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400264": {
+      "category": "material",
+      "path": "assets/materials/41400264.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_023_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400274": {
+      "category": "material",
+      "path": "assets/materials/41400274.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_022_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400284": {
+      "category": "material",
+      "path": "assets/materials/41400284.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_024_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400294": {
+      "category": "material",
+      "path": "assets/materials/41400294.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_025_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400304": {
+      "category": "material",
+      "path": "assets/materials/41400304.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_026_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400314": {
+      "category": "material",
+      "path": "assets/materials/41400314.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_027_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400324": {
+      "category": "material",
+      "path": "assets/materials/41400324.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_028_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-41400334": {
+      "category": "material",
+      "path": "assets/materials/41400334.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_029_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300030": {
+      "category": "material",
+      "path": "assets/materials/42300030.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_33A_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300040": {
+      "category": "material",
+      "path": "assets/materials/42300040.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_HuiYanGu_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300050": {
+      "category": "material",
+      "path": "assets/materials/42300050.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_denglongguo_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300060": {
+      "category": "material",
+      "path": "assets/materials/42300060.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_18A_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300070": {
+      "category": "material",
+      "path": "assets/materials/42300070.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_29A_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300080": {
+      "category": "material",
+      "path": "assets/materials/42300080.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_30A_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300090": {
+      "category": "material",
+      "path": "assets/materials/42300090.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_31A_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42300100": {
+      "category": "material",
+      "path": "assets/materials/42300100.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Sep_061_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42310200": {
+      "category": "material",
+      "path": "assets/materials/42310200.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_029_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42310210": {
+      "category": "material",
+      "path": "assets/materials/42310210.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_030_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42310230": {
+      "category": "material",
+      "path": "assets/materials/42310230.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_084_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601140": {
+      "category": "material",
+      "path": "assets/materials/42601140.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_045_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601150": {
+      "category": "material",
+      "path": "assets/materials/42601150.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_044_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601160": {
+      "category": "material",
+      "path": "assets/materials/42601160.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_043_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601170": {
+      "category": "material",
+      "path": "assets/materials/42601170.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_144_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601220": {
+      "category": "material",
+      "path": "assets/materials/42601220.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_bianzhuhua_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601230": {
+      "category": "material",
+      "path": "assets/materials/42601230.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_xueyejiami_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601250": {
+      "category": "material",
+      "path": "assets/materials/42601250.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_054_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601280": {
+      "category": "material",
+      "path": "assets/materials/42601280.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_056_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601290": {
+      "category": "material",
+      "path": "assets/materials/42601290.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_057_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601300": {
+      "category": "material",
+      "path": "assets/materials/42601300.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_058_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601310": {
+      "category": "material",
+      "path": "assets/materials/42601310.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_060_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601380": {
+      "category": "material",
+      "path": "assets/materials/42601380.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_066_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601390": {
+      "category": "material",
+      "path": "assets/materials/42601390.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_067_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601400": {
+      "category": "material",
+      "path": "assets/materials/42601400.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_063_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601420": {
+      "category": "material",
+      "path": "assets/materials/42601420.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_072_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601430": {
+      "category": "material",
+      "path": "assets/materials/42601430.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_074_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601480": {
+      "category": "material",
+      "path": "assets/materials/42601480.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_075_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601490": {
+      "category": "material",
+      "path": "assets/materials/42601490.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_076_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601500": {
+      "category": "material",
+      "path": "assets/materials/42601500.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_077_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601510": {
+      "category": "material",
+      "path": "assets/materials/42601510.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconA/T_IconA_23_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601600": {
+      "category": "material",
+      "path": "assets/materials/42601600.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_083_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-42601610": {
+      "category": "material",
+      "path": "assets/materials/42601610.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconC/T_IconC_087_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43010001": {
+      "category": "material",
+      "path": "assets/materials/43010001.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43010002": {
+      "category": "material",
+      "path": "assets/materials/43010002.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43010003": {
+      "category": "material",
+      "path": "assets/materials/43010003.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43010004": {
+      "category": "material",
+      "path": "assets/materials/43010004.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_exp_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020011": {
+      "category": "material",
+      "path": "assets/materials/43020011.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020012": {
+      "category": "material",
+      "path": "assets/materials/43020012.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020013": {
+      "category": "material",
+      "path": "assets/materials/43020013.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020014": {
+      "category": "material",
+      "path": "assets/materials/43020014.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Setpup_004_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020021": {
+      "category": "material",
+      "path": "assets/materials/43020021.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_01_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020022": {
+      "category": "material",
+      "path": "assets/materials/43020022.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_02_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020023": {
+      "category": "material",
+      "path": "assets/materials/43020023.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_03_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020024": {
+      "category": "material",
+      "path": "assets/materials/43020024.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_04_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020031": {
+      "category": "material",
+      "path": "assets/materials/43020031.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_005_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020032": {
+      "category": "material",
+      "path": "assets/materials/43020032.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_006_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020033": {
+      "category": "material",
+      "path": "assets/materials/43020033.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_007_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020034": {
+      "category": "material",
+      "path": "assets/materials/43020034.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_008_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020041": {
+      "category": "material",
+      "path": "assets/materials/43020041.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_009_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020042": {
+      "category": "material",
+      "path": "assets/materials/43020042.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_010_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020043": {
+      "category": "material",
+      "path": "assets/materials/43020043.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_011_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020044": {
+      "category": "material",
+      "path": "assets/materials/43020044.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_012_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020051": {
+      "category": "material",
+      "path": "assets/materials/43020051.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_013_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020052": {
+      "category": "material",
+      "path": "assets/materials/43020052.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_014_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020053": {
+      "category": "material",
+      "path": "assets/materials/43020053.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_015_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43020054": {
+      "category": "material",
+      "path": "assets/materials/43020054.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_016_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021011": {
+      "category": "material",
+      "path": "assets/materials/43021011.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_010_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021012": {
+      "category": "material",
+      "path": "assets/materials/43021012.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_010_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021013": {
+      "category": "material",
+      "path": "assets/materials/43021013.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_010_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021014": {
+      "category": "material",
+      "path": "assets/materials/43021014.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_010_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021021": {
+      "category": "material",
+      "path": "assets/materials/43021021.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021022": {
+      "category": "material",
+      "path": "assets/materials/43021022.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021023": {
+      "category": "material",
+      "path": "assets/materials/43021023.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021024": {
+      "category": "material",
+      "path": "assets/materials/43021024.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_009_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021031": {
+      "category": "material",
+      "path": "assets/materials/43021031.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_012_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021032": {
+      "category": "material",
+      "path": "assets/materials/43021032.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_012_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021033": {
+      "category": "material",
+      "path": "assets/materials/43021033.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_012_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021034": {
+      "category": "material",
+      "path": "assets/materials/43021034.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_012_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021041": {
+      "category": "material",
+      "path": "assets/materials/43021041.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021042": {
+      "category": "material",
+      "path": "assets/materials/43021042.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021043": {
+      "category": "material",
+      "path": "assets/materials/43021043.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021044": {
+      "category": "material",
+      "path": "assets/materials/43021044.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_011_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021051": {
+      "category": "material",
+      "path": "assets/materials/43021051.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_008_1_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021052": {
+      "category": "material",
+      "path": "assets/materials/43021052.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_008_2_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021053": {
+      "category": "material",
+      "path": "assets/materials/43021053.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_008_3_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    },
+    "material-43021054": {
+      "category": "material",
+      "path": "assets/materials/43021054.png",
+      "source_url": "https://api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_O_008_4_UI.webp",
+      "source": "Encore API/CDN",
+      "downloaded_on": "2026-08-18",
+      "size": [
+        64,
+        64
+      ],
+      "rights": "游戏原始素材，权利归库洛游戏；仅用于本地学习展示"
+    }
+  }
+}

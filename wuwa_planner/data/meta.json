@@ -1,0 +1,88 @@
+{
+  "game_version": "3.5",
+  "snapshot_date": "2026-08-18",
+  "character_scope": "3.5 已实装的 56 个可选择战斗形态（52 个具名角色 + 漂泊者四属性）",
+  "disclaimer": "角色等级与材料为离线静态资料；配装是社区通用建议，不代表官方唯一答案。部分 3.x 新材料保留公开资料英文名，避免未经确认的自行翻译。",
+  "sources": [
+    {
+      "id": "kuro_35_announcement",
+      "type": "official",
+      "title": "《鸣潮》3.5 版本官方公告/攻略资料",
+      "url": "https://mc.kurogames.com/",
+      "usage": "确认 3.5 版本范围、实装状态与官方术语基线"
+    },
+    {
+      "id": "kuro_wiki",
+      "type": "official",
+      "title": "库街区《鸣潮》WIKI",
+      "url": "https://wiki.kurobbs.com/mc/home",
+      "usage": "角色、材料与养成资料的官方社区资料入口"
+    },
+    {
+      "id": "wavekit_materials",
+      "type": "community_reference",
+      "title": "WaveKit 3.5 Material Data",
+      "url": "https://wavekit.net/assets/material-data.js?v=20260722-1",
+      "usage": "核对角色名单、分阶段突破与五项技能/技能树材料"
+    },
+    {
+      "id": "fandom_resonator_leveling",
+      "type": "community_reference",
+      "title": "Wuthering Waves Wiki — Resonator/Leveling",
+      "url": "https://wutheringwaves.fandom.com/wiki/Resonator/Leveling",
+      "usage": "核对 1～90 累计经验、升级贝币比例及共鸣促剂经验值"
+    },
+    {
+      "id": "encore_api",
+      "type": "community_reference",
+      "title": "Encore API Character Dataset",
+      "url": "https://api-v2.encore.moe/api/en/character?v=Beta",
+      "usage": "交叉核对角色 ID、英文名、属性、星级与武器类型"
+    },
+    {
+      "id": "ww_optimizer",
+      "type": "open_source_reference",
+      "title": "Wuthering Waves Optimizer (GPL-3.0)",
+      "url": "https://github.com/ryanbenson/wuthering-waves-optimizer",
+      "usage": "参考角色字段、属性分类和本地配装数据组织方式，未复制其实现代码"
+    },
+    {
+      "id": "frequency_manager",
+      "type": "open_source_reference",
+      "title": "FrequencyManager (MIT)",
+      "url": "https://github.com/pa001024/FrequencyManager",
+      "usage": "参考同类离线养成工具的功能边界与资料展示方式，未复制其实现代码"
+    },
+    {
+      "id": "encore_zh_api",
+      "type": "community_reference",
+      "title": "Encore API 简体中文数据",
+      "url": "https://api-v2.encore.moe/_docs/scalar",
+      "usage": "按 ID 对齐角色、材料、声骸简体中文名称及原始图标 URL"
+    },
+    {
+      "id": "ww_assets",
+      "type": "open_source_reference",
+      "title": "wuthering-waves-assets",
+      "url": "https://github.com/ryanbenson/wuthering-waves-assets",
+      "usage": "参考 Encore 资源索引和文件命名方式；游戏图片权利归原权利方"
+    },
+    {
+      "id": "wuwa_toolkit",
+      "type": "open_source_reference",
+      "title": "wuwa-toolkit",
+      "url": "https://github.com/MinhBN-dev/wuwa-toolkit",
+      "usage": "参考角色卡片、筛选反馈和本地资源分区思路，未复制实现"
+    },
+    {
+      "id": "wuwa_damage_calculator",
+      "type": "open_source_reference",
+      "title": "wuwa-damage-calculator",
+      "url": "https://github.com/chuan-hane/wuwa-damage-calculator",
+      "usage": "参考静态工具的信息层级和空状态思路，未复制实现"
+    }
+  ],
+  "asset_snapshot": "56 个角色形态、全部被引用材料及推荐主声骸的本地统一尺寸 PNG",
+  "skill_scope": "五项技能分别按 1～10 级区间计算；技能树节点独立勾选",
+  "rights_notice": "游戏原始图片权利归库洛游戏；本清单仅供本地学习工具展示，分发前需自行确认再分发权利。"
+}
